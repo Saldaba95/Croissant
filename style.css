@@ -1,0 +1,15 @@
+body {
+  background-image: linear-gradient(
+    180.3deg,
+    rgb(214, 224, 255) 37.2%,
+    rgb(254, 168, 168) 137.3%
+  );
+  background-attachment: fixed;
+}
+
+.food {
+  display: block;
+  max-width: 80%;
+  padding: 25px;
+  margin: 30px auto;
+}
